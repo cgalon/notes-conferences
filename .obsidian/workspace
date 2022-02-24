@@ -4,12 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9aa2fe8a9b4b0b",
+        "id": "0cc0a625105ecb38",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zz_Document de test de fonctionnalités d'Obsidian.md",
+            "file": "Devoxx Belgique 2018/Deep dive Kotlin.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "90018a00ded79b5c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Devoxx Belgique 2018/GraalVM.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9f02e2e93b9a96b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Devoxx Belgique 2018/GraalVM.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7e003eb0c9c1864c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mémo Obsidian.md",
             "mode": "source"
           }
         }
@@ -68,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_Document de test de fonctionnalités d'Obsidian.md",
+                "file": "Mémo Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +146,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7d9aa2fe8a9b4b0b",
+  "active": "7e003eb0c9c1864c",
   "lastOpenFiles": [
-    "zz_Document de test de fonctionnalités d'Obsidian.md",
-    "Sélection des sessions intéressantes.md",
-    "TO DO.md",
-    "Sans titre.md",
-    "Sans titre 1.md",
-    "Devoxx Paris 2019/Swagger Driven Testing.md",
+    "Mémo Obsidian.md",
+    "Devoxx Belgique 2018/GraalVM.md",
+    "Devoxx Belgique 2018/Deep dive Kotlin.md",
+    "Devoxx Belgique 2018/Google Containers Tools.md",
+    "Devoxx Belgique 2018/Evil inspiration for Kotlin.md",
+    "Devoxx Belgique 2018/Deep learning.md",
     "Devoxx Belgique 2018/Behavioral programming.md",
-    "Devoxx Belgique 2018/Three.js.md",
-    "Devoxx Belgique 2018/Antora - Documentation sites for software teams.md",
-    "Devoxx Belgique 2018/Présentation 2.0.md"
+    "Devoxx Belgique 2018/Functional programming in Java.md",
+    "zz_Document de test de fonctionnalités d'Obsidian.md",
+    "TO DO.md"
   ]
 }

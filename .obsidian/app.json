@@ -1,4 +1,6 @@
 {
   "legacyEditor": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }
