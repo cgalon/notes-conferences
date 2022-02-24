@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "db1645b73f97c721",
+    "type": "split",
+    "children": [
+      {
+        "id": "079e05f2981ca02b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TO DO.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8187789576de562a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc0e8367eccfe44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3fde07bd4f110d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5fbbc48d989fc7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#JUnit5",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431
+  },
+  "right": {
+    "id": "6729e3dd112072ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea7723bcf0cf2caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "371f6a58dff995a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TO DO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da8278d1df532b77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f9f58cb0324cea4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "079e05f2981ca02b",
+  "lastOpenFiles": [
+    "TO DO.md",
+    "Sans titre.md",
+    "Sans titre 1.md",
+    "Sélection des sessions intéressantes.md",
+    "Document de test de fonctionnalités d'Obsidian.md",
+    "Devoxx Paris 2019/Swagger Driven Testing.md",
+    "Devoxx Belgique 2018/Behavioral programming.md",
+    "Devoxx Belgique 2018/Three.js.md",
+    "Devoxx Belgique 2018/Antora - Documentation sites for software teams.md",
+    "Devoxx Belgique 2018/Présentation 2.0.md"
+  ]
+}
