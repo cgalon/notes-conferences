@@ -1,10 +1,3 @@
-# Plugin Reminder
-Pour la gestion de tâches et le rappel associé
-
-- [ ] Tache 1 (@2022-02-22)
-- [x] Tache 2 (@2022-02-23)
-
-
 # Mise en forme de code source
 
 ```java
