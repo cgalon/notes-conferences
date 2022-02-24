@@ -23,3 +23,14 @@ collapse: open
 Contenu de la note
 Deuxième ligne
 ```
+
+# Plugin advanced tables
+Pour créer et manipuler des tableaux plus facilement
+
+| Hotkey           | Action                     |
+|:---------------- | -------------------------- |
+| Tab              | Next Cell                  |
+| Shift + Tab      | Previous Cell              |
+| Entre            | Next row                   |
+| Ctrl + Shift + D | Open table control sidebar |
+
