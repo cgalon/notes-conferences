@@ -2,5 +2,7 @@
   "legacyEditor": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "foldHeading": true,
+  "foldIndent": true
 }
