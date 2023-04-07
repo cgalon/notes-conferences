@@ -10,6 +10,9 @@ Ctrl + P --> Ouvrir la liste des commandes
 
 Ctrl + w --> Ferme le volet actif
 
+> [!NOTE]
+> Mettre un paragraphe en valeur - Ctrl + P -> Insert callout
+
 
 ## Racourcis personnalisés
 
@@ -20,3 +23,4 @@ Ctrl + Flèche gauche --> Affiche le volet de gauche
 Ctrl + Flèche haut --> Déplace la ligne courante vers le haut
 
 Ctrl + Flèche bas --> Déplace la ligne courante vers le bas
+

@@ -1,8 +1,9 @@
 {
-  "legacyEditor": true,
+  "legacyEditor": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "livePreview": true
 }

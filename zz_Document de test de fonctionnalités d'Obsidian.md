@@ -15,14 +15,6 @@
 
 ```
 
-# Plugin Admonition
-Pour l'ajout de notes (à la asciidoctor)
-```ad-note
-title: Titre de la note
-collapse: open
-Contenu de la note
-Deuxième ligne
-```
 
 # Plugin advanced tables
 Pour créer et manipuler des tableaux plus facilement
