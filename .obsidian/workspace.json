@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_Document de test de fonctionnalités d'Obsidian.md",
+                "file": "Mémo Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_Document de test de fonctionnalités d'Obsidian.md",
+                "file": "Mémo Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,12 +133,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3fde07bd4f110d0",
+  "active": "7d820dfd09b91c81",
   "lastOpenFiles": [
+    "zz_Document de test de fonctionnalités d'Obsidian.md",
     "Mémo Obsidian.md",
     "Sélection des sessions intéressantes.md",
     "TO DO.md",
-    "zz_Document de test de fonctionnalités d'Obsidian.md",
     "Devoxx Belgique 2018/Deep dive Kotlin.md",
     "Devoxx Belgique 2018/Deep learning.md",
     "Devoxx Belgique 2018/Functional programming in Java.md",

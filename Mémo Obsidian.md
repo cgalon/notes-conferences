@@ -24,3 +24,27 @@ Ctrl + Flèche haut --> Déplace la ligne courante vers le haut
 
 Ctrl + Flèche bas --> Déplace la ligne courante vers le bas
 
+## Variables
+
+{{date}} -> Insére la date du jour
+
+## Mise en forme de code
+
+```java
+    protected boolean estUnAttributAPrendreEnCompte(UnAttribut attribut) {
+        boolean estAPrendreEnCompte = true;
+        ...
+        return estAPrendreEnCompte;
+    }
+```
+
+
+## Plugin advanced tables
+
+| Hotkey           | Action                     |
+|:---------------- | -------------------------- |
+| Tab              | Next Cell                  | 
+| Shift + Tab      | Previous Cell              |
+| Entre            | Next row                   |
+| Ctrl + Shift + D | Open table control sidebar |
+
