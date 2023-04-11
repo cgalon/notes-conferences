@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b98ac6fbafa68040",
+            "id": "b6436a9ec7a76b96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/modele conf.md",
+                "file": "Devoxx Paris 2023/_DDD - Retour d'expérience.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/modele conf.md",
+                "file": "Devoxx Paris 2023/_DDD - Retour d'expérience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +134,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "da8278d1df532b77",
+  "active": "b6436a9ec7a76b96",
   "lastOpenFiles": [
-    "Untitled.md",
     "TO DO.md",
+    "Devoxx Paris 2023/_DDD - Retour d'expérience.md",
+    "template/modele conf.md",
+    "Untitled.md",
     "Devoxx Paris 2022/Patterns et Outils pour une Stratégie de Testing Efficace.md",
     "Devoxx Paris 2022/Profiler un pod avec kubectl-flame.md",
     "Devoxx Paris 2022/S'affranchir de la pyramide des tests.md",
@@ -146,7 +148,6 @@
     "Devoxx Paris 2022/Etre développeur - Grandir et se développer.md",
     "Devoxx Paris 2022/Comment OpenTelemetry peut transformer votre monitoring.md",
     "Devoxx Paris 2022/100 millions de login a Betclic.md",
-    "template/modele conf.md",
     "template",
     "Devoxx Paris 2023",
     "Mémo Obsidian.md",
