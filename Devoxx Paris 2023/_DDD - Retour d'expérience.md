@@ -6,7 +6,7 @@ date: 2023-04-11
 ---
 tags: #DDD 
 
-NB : Conf de la formation Oxiane
+NB : Jounée de la formation Oxiane
 
 # Introduction
  

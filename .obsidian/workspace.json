@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6436a9ec7a76b96",
+            "id": "dcf8e29d6f87af79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devoxx Paris 2023/_DDD - Retour d'expérience.md",
+                "file": "Devoxx Paris 2023/Télétravail asynchrone.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devoxx Paris 2023/_DDD - Retour d'expérience.md",
+                "file": "Devoxx Paris 2023/Télétravail asynchrone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +134,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "b6436a9ec7a76b96",
+  "active": "dcf8e29d6f87af79",
   "lastOpenFiles": [
-    "TO DO.md",
+    "Devoxx Paris 2023/Playwright l'outil qui va révolutionner les tests end-to-end.md",
+    "Devoxx Paris 2023/Télétravail asynchrone.md",
+    "Devoxx Paris 2023/Grafana Loki comme Prometheus mais pour les logs.md",
+    "Devoxx Paris 2023/Des tuyaux sur les pipelines.md",
     "Devoxx Paris 2023/_DDD - Retour d'expérience.md",
+    "Devoxx Paris 2023/Rendons le DDD aux devs.md",
+    "TO DO.md",
     "template/modele conf.md",
     "Untitled.md",
     "Devoxx Paris 2022/Patterns et Outils pour une Stratégie de Testing Efficace.md",
