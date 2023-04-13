@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b44198c2fa5135e6",
+        "id": "7eef4d714652df8d",
         "type": "tabs",
         "children": [
           {
-            "id": "dcf8e29d6f87af79",
+            "id": "7dd05d0ed75f6e28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devoxx Paris 2023/Télétravail asynchrone.md",
+                "file": "Devoxx Paris 2023/Les post mortems.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devoxx Paris 2023/Télétravail asynchrone.md",
+                "file": "Devoxx Paris 2023/Les post mortems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,12 +134,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "dcf8e29d6f87af79",
+  "active": "7dd05d0ed75f6e28",
   "lastOpenFiles": [
+    "Devoxx Paris 2023/Démystifions le fonctionnement interne de Kubernetes.md",
+    "Devoxx Paris 2023/Les post mortems.md",
+    "Devoxx Paris 2023/Gérer la dette d'architecture dans un contexte d'hypercroissance.md",
+    "Devoxx Paris 2023/Nouveauté Java 19 et 20.md",
+    "Devoxx Paris 2023/Loi de Conway.md",
+    "Devoxx Paris 2023/Alice au pays d'OpenTelemetry.md",
+    "Devoxx Paris 2023/CRAC vs GraalVM pour un démarrage rapide.md",
     "Devoxx Paris 2023/Playwright l'outil qui va révolutionner les tests end-to-end.md",
+    "Devoxx Paris 2023/Des tuyaux sur les pipelines.md",
+    "Devoxx Belgique 2018/GraalVM.md",
     "Devoxx Paris 2023/Télétravail asynchrone.md",
     "Devoxx Paris 2023/Grafana Loki comme Prometheus mais pour les logs.md",
-    "Devoxx Paris 2023/Des tuyaux sur les pipelines.md",
     "Devoxx Paris 2023/_DDD - Retour d'expérience.md",
     "Devoxx Paris 2023/Rendons le DDD aux devs.md",
     "TO DO.md",
@@ -155,14 +163,6 @@
     "Devoxx Paris 2022/100 millions de login a Betclic.md",
     "template",
     "Devoxx Paris 2023",
-    "Mémo Obsidian.md",
-    "zz_Document de test de fonctionnalités d'Obsidian.md",
-    "Sélection des sessions intéressantes.md",
-    "Devoxx Belgique 2018/Deep dive Kotlin.md",
-    "Devoxx Belgique 2018/Deep learning.md",
-    "Devoxx Belgique 2018/Functional programming in Java.md",
-    "Devoxx Belgique 2018/GraalVM.md",
-    "Devoxx Belgique 2018/Google Containers Tools.md",
-    "Devoxx Belgique 2018/Evil inspiration for Kotlin.md"
+    "Mémo Obsidian.md"
   ]
 }
