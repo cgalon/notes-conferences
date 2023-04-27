@@ -23,6 +23,22 @@
 
 [[TestContainers]]
 
+# Devoxx Paris 2021
+
+[[Tour d'horizon sur les tests]]
+
+[[Property Based Testing]]
+
+[[Tekton, nouvelle approche pour les pipelines]]
+
+# Devoxx Paris 2022
+
+[[Loom nous protègera-t-il du braquage temporel?]]
+
+[[OAuth 2 expliqué simplement]]
+
+[[Microservices et cohérence des données]]
+
 # Devoxx Paris 2023
 
 [[Biais et balivernes]]

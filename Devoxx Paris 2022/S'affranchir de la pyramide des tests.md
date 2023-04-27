@@ -13,3 +13,4 @@ Chez Doctolib, on commence par des tests End to End
 
 Les tests figent les contrats des SUT (quels qu'ils soient)
 
+NDLR : Conf avec de mauvaises préco. A oublier.

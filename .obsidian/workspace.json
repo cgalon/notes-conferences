@@ -136,8 +136,14 @@
   },
   "active": "18fe7cd503c4f80e",
   "lastOpenFiles": [
-    "Mémo Obsidian.md",
+    "Devoxx Paris 2022/Microservices et cohérence des données.md",
+    "Devoxx Paris 2022/Mieux maitriser TLS, OpenSSL et les certificats.md",
+    "Devoxx Paris 2022/Model Driven Design.md",
+    "Devoxx Paris 2022/TDD avec Testcontainers.md",
+    "Devoxx Paris 2022/S'affranchir de la pyramide des tests.md",
+    "Devoxx Paris 2022/Patterns et Outils pour une Stratégie de Testing Efficace.md",
     "Sélection des sessions intéressantes.md",
+    "Mémo Obsidian.md",
     "README.md",
     "TO DO.md",
     "zz_Document de test de fonctionnalités d'Obsidian.md",
@@ -156,12 +162,6 @@
     "Devoxx Paris 2023/Des tuyaux sur les pipelines.md",
     "Devoxx Paris 2023/Démystifions le fonctionnement interne de Kubernetes.md",
     "Devoxx Paris 2023/CRAC vs GraalVM pour un démarrage rapide.md",
-    "Devoxx Paris 2023/Biais et balivernes.md",
-    "Devoxx Paris 2023/Alice au pays d'OpenTelemetry.md",
-    "Devoxx Paris 2023/_DDD - Retour d'expérience.md",
-    "Devoxx Belgique 2018/GraalVM.md",
-    "template/modele conf.md",
-    "Untitled.md",
     "template",
     "Devoxx Paris 2023"
   ]
