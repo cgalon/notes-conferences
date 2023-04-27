@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: CRAC vs GraalVM pour un démarrage rapide
 speaker: Lilan Benoit
 date: 2023-04-13
-video: 
+video: https://youtu.be/wPWVgalixxI
 ---
 tags: #Crac , #GraalVM 
 

@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Le craft. Du concept au déploiement à l'échelle
 speaker: Guillaume Le Dain et Matthieu Vincent
 date: 2023-04-14
-video: 
+video: https://youtu.be/EXko-SSxRuY
 ---
 tags: #craft , 
 

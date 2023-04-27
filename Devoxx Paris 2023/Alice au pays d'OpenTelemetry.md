@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Alice au pays d'OpenTelemetry
 speaker: Jérome Tama
 date: 2023-04-13
-video: 
+video: https://youtu.be/0xSCUgHxZu0
 ---
 tags: #supervision , #openTelemetry , #observabilité , #grafana 
 

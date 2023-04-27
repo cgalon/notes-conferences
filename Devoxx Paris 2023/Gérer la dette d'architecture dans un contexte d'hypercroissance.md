@@ -1,9 +1,9 @@
 ---
 conference: Devoxx FR
 title: Gérer la dette d'architecture dans un contexte d'hypercroissance
-speaker: 
+speaker: Cyril Beslay
 date: 2023-04-13
-video: 
+video: https://youtu.be/F30CJnmzI8Y
 ---
 tags: #dette
 

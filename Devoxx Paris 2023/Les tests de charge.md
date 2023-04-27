@@ -1,9 +1,9 @@
 ---
 conference: Devoxx FR
-title: Les tests de charge
+title: Les tests de charge sans être à coté de la plaque
 speaker: Stéphane Landelle
 date: 2023-04-14
-video: 
+video: https://youtu.be/whpCF3lFuOE
 ---
 tags: #tests 
 

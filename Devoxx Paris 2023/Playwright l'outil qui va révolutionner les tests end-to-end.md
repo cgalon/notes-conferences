@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Playwright l'outil qui va révolutionner les tests end-to-end
 speaker: Jean François Greffier
 date: 2023-04-12
-video: 
+video: https://youtu.be/CeLkUDmTRkE
 ---
 tags: #tests 
 

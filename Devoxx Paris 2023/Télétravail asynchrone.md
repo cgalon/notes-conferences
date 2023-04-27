@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Télétravail asynchrone
 speaker: Benoit Prioux
 date: 2023-04-12
-video: 
+video: https://youtu.be/0dygHx6g8Bw
 ---
 tags: #teletravail
 

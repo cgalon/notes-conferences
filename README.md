@@ -1,1 +1,2 @@
-# Projet de test des possibilités de l'application Obsidian
+Mes notes prises lors des conférences auxquelles j'ai pu assister.
+

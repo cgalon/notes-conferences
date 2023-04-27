@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Nouveauté Java 19 et 20
 speaker: Jean Michel Doudoux
 date: 2023-04-13
-video: 
+video: https://youtu.be/yoadz5e5UbQ
 ---
 tags: #Java 
 

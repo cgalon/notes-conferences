@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Démystifions le fonctionnement interne de Kubernetes
 speaker: Denis Germain
 date: 2023-04-13
-video: 
+video: https://youtu.be/OCMNA0dSAzc
 ---
 tags: #Kubernetes 
 

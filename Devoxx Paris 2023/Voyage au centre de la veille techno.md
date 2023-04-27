@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Voyage au centre de la veille techno
 speaker: David Franck et Fabien Hiegel
 date: 2023-04-14
-video: 
+video: https://youtu.be/AMOXbT4xVjk
 ---
 tags: #veiille
 

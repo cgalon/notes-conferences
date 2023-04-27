@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Biais et balivernes
 speaker: Thomas Durand
 date: 2023-04-14
-video: 
+video: https://youtu.be/v_nAokE2D4U
 ---
 tags: #autre
 

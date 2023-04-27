@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Rendons le DDD aux devs!
 speaker: Arnaud Thiefaine et Dorra Bartaguiz
 date: 2023-04-12
-video: 
+video: https://youtu.be/3jI6TpzLU1c
 ---
 tags: #DDD 
 

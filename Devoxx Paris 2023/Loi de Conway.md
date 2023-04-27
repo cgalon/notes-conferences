@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Loi de Conway, lorsque les bonnes pratiques ne suffisent pas
 speaker: Julien Topçu
 date: 2023-04-13
-video: 
+video: https://youtu.be/Kx7XOqrPoWk
 ---
 tags: #Accelerate , #DDD , #teamTopologies
 

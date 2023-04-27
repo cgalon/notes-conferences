@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Des tuyaux sur les pipelines
 speaker: Philippe Charrière et Pierre-Antoine Grégoire 
 date: 2023-04-12
-video: 
+video: https://youtu.be/1oRiEzMW6QA
 ---
 tags: #pipeline , #cicd , #tests , #gitops , #bdd , #sécurité , #supervision , #observabilité 
 

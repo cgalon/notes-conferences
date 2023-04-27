@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Grafana Loki comme Prometheus mais pour les logs
 speaker: Cyril Tovena
 date: 2023-04-12
-video: 
+video: https://youtu.be/GrReHuhDGy8
 ---
 tags: #log , #loki , #grafana
 

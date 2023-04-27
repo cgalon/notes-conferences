@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Les postmortems ou comment sortir heureux d'un carnage
 speaker: Lise Quesnel
 date: 2023-04-13
-video: 
+video: https://youtu.be/c4npISCcdVk
 ---
 tags: 
 
