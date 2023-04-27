@@ -1,9 +1,5 @@
-```ad-note
-title: Règles de cette sélection
-collapse: close
-- 5 sessions max par conférences
-```
-
+> [!NOTE]
+> Règles de cette sélection : 5 sessions max par conférences
 
 # Devoxx Belgique 2018
 
@@ -26,4 +22,16 @@ collapse: close
 [[Quarkus]]
 
 [[TestContainers]]
+
+# Devoxx Paris 2023
+
+[[Biais et balivernes]]
+
+[[Voyage au centre de la veille techno]]
+
+[[Loi de Conway]]
+
+[[Démystifions le fonctionnement interne de Kubernetes]]
+
+[[Des tuyaux sur les pipelines]]
 
