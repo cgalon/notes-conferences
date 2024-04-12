@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18fe7cd503c4f80e",
+            "id": "8eebc45a44552c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sélection des sessions intéressantes.md",
+                "file": "Mémo Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,6 +57,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "649eef629e3c494b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -78,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sélection des sessions intéressantes.md",
+                "file": "Mémo Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +142,22 @@
       "templates:Insert template": false
     }
   },
-  "active": "18fe7cd503c4f80e",
+  "active": "8eebc45a44552c08",
   "lastOpenFiles": [
+    "Sélection des sessions intéressantes.md",
+    "Mémo Obsidian.md",
+    "Test conf.md",
+    "README.md",
+    "template/modele conf.md",
+    "template/Untitled.md",
+    "Devoxx Paris 2023/Biais et balivernes.md",
+    "Devoxx Paris 2024",
     "Devoxx Paris 2022/Microservices et cohérence des données.md",
     "Devoxx Paris 2022/Mieux maitriser TLS, OpenSSL et les certificats.md",
     "Devoxx Paris 2022/Model Driven Design.md",
     "Devoxx Paris 2022/TDD avec Testcontainers.md",
     "Devoxx Paris 2022/S'affranchir de la pyramide des tests.md",
     "Devoxx Paris 2022/Patterns et Outils pour une Stratégie de Testing Efficace.md",
-    "Sélection des sessions intéressantes.md",
-    "Mémo Obsidian.md",
-    "README.md",
     "TO DO.md",
     "zz_Document de test de fonctionnalités d'Obsidian.md",
     "Devoxx Paris 2023/Voyage au centre de la veille techno.md",
@@ -158,10 +171,6 @@
     "Devoxx Paris 2023/Les post mortems.md",
     "Devoxx Paris 2023/Le craft à l'échelle.md",
     "Devoxx Paris 2023/Grafana Loki comme Prometheus mais pour les logs.md",
-    "Devoxx Paris 2023/Gérer la dette d'architecture dans un contexte d'hypercroissance.md",
-    "Devoxx Paris 2023/Des tuyaux sur les pipelines.md",
-    "Devoxx Paris 2023/Démystifions le fonctionnement interne de Kubernetes.md",
-    "Devoxx Paris 2023/CRAC vs GraalVM pour un démarrage rapide.md",
     "template",
     "Devoxx Paris 2023"
   ]
