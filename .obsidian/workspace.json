@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8eebc45a44552c08",
+            "id": "2b081b17ef5b6e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mémo Obsidian.md",
+                "file": "Devoxx Paris 2024/Utiliser les IA génératives avec Java - Au dela des simples chatbots.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mémo Obsidian.md",
+                "file": "Devoxx Paris 2024/Utiliser les IA génératives avec Java - Au dela des simples chatbots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,10 +142,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "8eebc45a44552c08",
+  "active": "2b081b17ef5b6e24",
   "lastOpenFiles": [
-    "Sélection des sessions intéressantes.md",
+    "Devoxx Paris 2024/Utiliser les IA génératives avec Java - Au dela des simples chatbots.md",
+    "Devoxx Paris 2023/Gérer la dette d'architecture dans un contexte d'hypercroissance.md",
+    "Devoxx Paris 2021/Resilience et design patterns pour le cloud.md",
+    "Devoxx Paris 2021/Grosses bases de données, beaucoup de serveurs....md",
+    "Devoxx Paris 2019/Kafka, patterns et anti-patterns.md",
+    "Devoxx Paris 2019/Chaos engineering pour le Javaiste.md",
+    "Devoxx Paris 2024/La doc va bien, ne t'en fait pas..md",
+    "Devoxx Paris 2024/SLSA, Sigstore, SBOM and Software Supply Chain Security. Should you care?.md",
     "Mémo Obsidian.md",
+    "Sélection des sessions intéressantes.md",
     "Test conf.md",
     "README.md",
     "template/modele conf.md",
@@ -163,14 +171,6 @@
     "Devoxx Paris 2023/Voyage au centre de la veille techno.md",
     "Devoxx Paris 2023/Télétravail asynchrone.md",
     "Devoxx Paris 2023/Rendons le DDD aux devs.md",
-    "Devoxx Paris 2023/Playwright l'outil qui va révolutionner les tests end-to-end.md",
-    "Devoxx Paris 2023/Nouveauté Java 19 et 20.md",
-    "Devoxx Paris 2023/Miroir miroir dis moi si je suis observable.md",
-    "Devoxx Paris 2023/Loi de Conway.md",
-    "Devoxx Paris 2023/Les tests de charge.md",
-    "Devoxx Paris 2023/Les post mortems.md",
-    "Devoxx Paris 2023/Le craft à l'échelle.md",
-    "Devoxx Paris 2023/Grafana Loki comme Prometheus mais pour les logs.md",
     "template",
     "Devoxx Paris 2023"
   ]
