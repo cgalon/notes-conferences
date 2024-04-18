@@ -5,7 +5,7 @@ speaker: Abdel Sghiouar et Cédrick Lunven
 date: 2024-04-17
 video:
 ---
-tags: #ia , #OpenSource 
+tags: #ia , #OpenSource , #rag 
 
 Conférenciers de chez Google et Cassandra (un peu de pub)
 # Introduction
@@ -134,7 +134,7 @@ Permet d'utiliser un service externe en fonction des questions (par exemple dema
 -> Utilisation de Tools dans LangChain4J
 -> Annotation de méthode spécifique et utilisation par LangChain en fonction de la sémantique de l'annotation
 
-
+Sources : github datastaxdevs/conference-2à24-devoxx-france
 
 
 

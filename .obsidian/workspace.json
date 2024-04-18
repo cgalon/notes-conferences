@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b081b17ef5b6e24",
+            "id": "e5a1aca30b069019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devoxx Paris 2024/Utiliser les IA génératives avec Java - Au dela des simples chatbots.md",
+                "file": "Devoxx Paris 2024/Builds Reproductibles avec Apache Maven.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devoxx Paris 2024/Utiliser les IA génératives avec Java - Au dela des simples chatbots.md",
+                "file": "Devoxx Paris 2024/Builds Reproductibles avec Apache Maven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +142,19 @@
       "templates:Insert template": false
     }
   },
-  "active": "2b081b17ef5b6e24",
+  "active": "e5a1aca30b069019",
   "lastOpenFiles": [
+    "Devoxx Paris 2024/IA ou IA pas ? Nous l’IA qui remplace les devs on y croit pas (encore) !.md",
+    "Devoxx Paris 2024/Builds Reproductibles avec Apache Maven.md",
+    "Devoxx Paris 2024/Les nouveautés de Java 21.md",
+    "Devoxx Paris 2024/Java rencontre l'IA - Comment intégrer les LLMs dans vos applications avec LangChain4j.md",
+    "assets/devoxx-2024",
+    "assets",
+    "Devoxx Paris 2024/C4 model, la solution pour standardiser mes schémas d'architecture.md",
+    "Devoxx Paris 2024/Panorama des risques, vulnérabilités et pistes pour une utilisation plus sûre de l'IA générative.md",
+    "Devoxx Paris 2024/GatewayAPI, 10 ans de maturation pour une nouvelle API Kubernetes.md",
+    "Devoxx Paris 2024/Creating a documentation site for users with AsciiDoc and Antora.md",
+    "Devoxx Paris 2024/Mettre en place un RAG Open Source en 30 minutes.md",
     "Devoxx Paris 2024/Utiliser les IA génératives avec Java - Au dela des simples chatbots.md",
     "Devoxx Paris 2023/Gérer la dette d'architecture dans un contexte d'hypercroissance.md",
     "Devoxx Paris 2021/Resilience et design patterns pour le cloud.md",
@@ -162,15 +173,6 @@
     "Devoxx Paris 2024",
     "Devoxx Paris 2022/Microservices et cohérence des données.md",
     "Devoxx Paris 2022/Mieux maitriser TLS, OpenSSL et les certificats.md",
-    "Devoxx Paris 2022/Model Driven Design.md",
-    "Devoxx Paris 2022/TDD avec Testcontainers.md",
-    "Devoxx Paris 2022/S'affranchir de la pyramide des tests.md",
-    "Devoxx Paris 2022/Patterns et Outils pour une Stratégie de Testing Efficace.md",
-    "TO DO.md",
-    "zz_Document de test de fonctionnalités d'Obsidian.md",
-    "Devoxx Paris 2023/Voyage au centre de la veille techno.md",
-    "Devoxx Paris 2023/Télétravail asynchrone.md",
-    "Devoxx Paris 2023/Rendons le DDD aux devs.md",
     "template",
     "Devoxx Paris 2023"
   ]
