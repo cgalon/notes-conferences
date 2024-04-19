@@ -20,7 +20,7 @@ Explication de code :
 	- Donne un peu d'autonomie
 	- On peut lui poser des questions qu'on ose pas poser au TL
 - Onboarding -> Fait gagner du temps
-- Permet de générer un premier brouillon de code
+- Permet de générer un premier brouillon de doc
 
 Trouver d'autres solutions : Pair programmeur qui a lu tout Internet
 Super canard en plastique
