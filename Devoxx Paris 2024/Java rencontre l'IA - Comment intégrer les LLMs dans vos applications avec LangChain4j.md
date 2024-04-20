@@ -8,7 +8,8 @@ video:
 tags: #ia 
 
 Composants de LangChain4J : 
-[[20240418_133606.jpg]]
+![[20240418_133606.jpg]]
+
 
 Repo Github : langchain4j/langchain4j
 -> Bonne doc
@@ -30,12 +31,12 @@ Il existe plein de loaders différents
 EmbeddingModel pour vectoriser dans un EmbeddingStore et un ContentRetriever pour la recherche.
 
 ## Advanced RAG
-[[20240418_140656.jpg]]
+![[20240418_140656.jpg]]
 Utilise plusieurs objets pour implémenter et spécialiser le RAG.
 Utilise des interfaces -> Permet de fournir ses propres implémentations.
 
 Conseils de l'équipe : 
-[[20240418_141525.jpg]]
+![[20240418_141525.jpg]]
 
 Repo exemples : langchain4j/langchain4j-examples
 

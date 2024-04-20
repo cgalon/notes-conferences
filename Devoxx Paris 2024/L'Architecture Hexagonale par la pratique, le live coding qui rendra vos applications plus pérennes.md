@@ -10,6 +10,9 @@ tags: #archi
 Reprend les bases de l'archi hexagonale
 Et explique les problèmes des archi legacy
 
+Live coding
+(Il faut voir la vidéo)
+
 
 
 

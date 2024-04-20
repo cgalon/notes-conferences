@@ -12,7 +12,7 @@ Techno en cours de maturation
 Cadre réglementaire + Analyse de risques = Mesures de protection
 Cf. IA Act
 
-[[20240418_114540.jpg]]
+![[20240418_114540.jpg]]
 # Risque comportemental et social
 
 Risque accru sur la désinformation (hallucinations)
@@ -22,7 +22,7 @@ Impact environnemental et techno lucidité
 
 # Risques liés au contrôle et à la validation des LLM
 
-[[20240418_115349.jpg]]
+![[20240418_115349.jpg]]
 
 Le but est de coder mieux, pas plus vite
 Une IA est pas programmée pour "désapprendre"
@@ -32,7 +32,7 @@ Sur Hugging fac plus de 100 modèles malveillants (Exemple Backdoor Wiz)
 Le retour des Worms (vers) propagés par les LLM
 
 Exemple de résultat d'analyse de risque :
-[[20240418_120438.jpg]]
+![[20240418_120438.jpg]]
 # Mesure de protection
 
 Il faut commencer par la gouvernance
@@ -55,7 +55,7 @@ Lutter contre le shadow IA Gen
 -> Solution collaborative (sensibilisation + blocage occasionnel)
 
 Article LinkedIn : 
-[[20240418_121724.jpg]]
+![[20240418_121724.jpg]]
 
 
 

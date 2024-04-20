@@ -18,7 +18,7 @@ Uses cases :
 - Speech (Speech to text, texte to speech...)
 - Vision (manips d'images...)
 
-[[20240417_134030.jpg]]
+![[20240417_134030.jpg]]
 
 Vertex.AI : Offre globale de Google pour faire de l'IA
 API Google Java pour appeler Gemini (google-cloud-vertexai)
@@ -47,12 +47,13 @@ SpringAI : La même chose dans l'écosystème Spring
 # Prompt engineering
 
 Avoir une bonne structure de prompt
-[[20240417_143323.jpg]]
+![[20240417_145110.jpg]]
 
 Toujours poser comme contrainte "Si tu ne sais pas dis que tu ne sais pas"
 
 Tuner les paramètres
-[[20240417_144145.jpg]]
+![[20240417_143323.jpg]]
+
 
 Technique avancée : 
 - Chains of Thoughts (Chaine de pensée)
@@ -61,10 +62,11 @@ Technique avancée :
 	-> Donner plusieurs solutions de raisonnement pour qu'il s'autovérifie
 - ReAct (Reasoning and Acting)
 
-Best practices
-[[20240417_144218.jpg]]
+## Best practices
 
-[[20240417_145110.jpg]]
+![[20240417_144145.jpg]]
+
+![[20240417_144218.jpg]]
 
 Prompt Templates in Java
 -> Avec LangChain4J, SpringAI, GoodBards...
@@ -84,7 +86,7 @@ Pour simplifier, les vecteurs générés sont de norme 1.
 Peut faire sauter la précision des floats de Java.
 
 Choix de la métrique : 
-[[20240417_152208.jpg]]
+![[20240417_152208.jpg]]
 
 
 HNSW : Hierarchical Navigable Small World
@@ -94,7 +96,7 @@ Algo : DiskANN (Vamana + ??? + Oversampling)
 10 fois plus rapide que Lucene
 
 Plusieurs infos à stocker dans la base vectorielle : 
-[[20240417_154446.jpg]]
+![[20240417_154446.jpg]]
 
 https://superlinked.com/vector-db-comparison
 
@@ -111,12 +113,12 @@ Implementations de différents niveaux suivant les fournisseurs de l'implémenta
 
 Trop compliqué de vectoriser un document complet (perte d'infos sémantiques) -> Chunk
 Plusieurs manières de chunker les documents
-[[20240417_160222.jpg]]
+![[20240417_160222.jpg]]
 
 C'est OK de chunker en fonction d'un nombre de tokens fixes (en faisant attention à la fin des phrases)
 Preprocessing du document pour le nettoyer.
 Puis chunking de documents par nombre de tokens avec de l'overlaping entre les chunks
-[[20240417_160627.jpg]]
+![[20240417_160627.jpg]]
 
 Quand on vérifie un RAG, il faut utiliser des docs persos pour que le LLM n'utilise pas ses propres connaissances.
 
@@ -130,7 +132,7 @@ On peut aussi travailler sur les réponses avec un QueryAggregator pour retravai
 -> Meilleur en ce moment : Cohere
 
 Plus de techniques avancées à explorer : 
-[[20240417_162011.jpg]]
+![[20240417_162011.jpg]]
 ## Function calling
 
 Permet d'utiliser un service externe en fonction des questions (par exemple demander la météo actuelle d'un lieu)
