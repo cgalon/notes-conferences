@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: De Compose à Kubernetes, Same player shoot again
 speaker: Nicolas de Loof et Guillaume Lours
 date: 2024-04-18
-video:
+video: https://youtu.be/OQc-Lvy7N7I?si=94TRawLJpFoGEzLi
 ---
 tags: #Kubernetes , #Docker 
 

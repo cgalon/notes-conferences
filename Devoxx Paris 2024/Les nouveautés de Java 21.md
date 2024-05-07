@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Les nouveautés de Java 21
 speaker: Jean Michel Doudoux
 date: 2024-04-18
-video:
+video: https://youtu.be/3Erjl1862Q4?si=eIDx0G4rsyYUHe8e
 ---
 tags: #Java 
 

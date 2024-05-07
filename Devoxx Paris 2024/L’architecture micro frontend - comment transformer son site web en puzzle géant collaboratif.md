@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: "L’architecture micro frontend : comment transformer son site web en puzzle géant collaboratif"
 speaker: Maxime Ribera et Ludovic Lagatie
 date: 2024-04-19
-video:
+video: https://youtu.be/t4VrZypugA8?si=vpDYeSu83wn60Olv
 ---
 tags: #archi
 

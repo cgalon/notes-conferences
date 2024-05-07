@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: GatewayAPI, 10 ans de maturation pour une nouvelle API Kubernetes
 speaker: Kevin Davin
 date: 2024-04-18
-video:
+video: https://youtu.be/uId-zaLEpr0?si=9HwYlH0Nsdnuv43z
 ---
 tags: #Kubernetes 
 

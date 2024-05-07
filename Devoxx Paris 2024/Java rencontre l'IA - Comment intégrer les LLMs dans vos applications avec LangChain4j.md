@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: "Java rencontre l'IA : Comment intégrer les LLMs dans vos applications avec LangChain4j"
 speaker: Lize Raes
 date: 2024-04-18
-video:
+video: https://youtu.be/0FEUmI2Ou10?si=zeSVpUR9vhFKEIpr
 ---
 tags: #ia 
 

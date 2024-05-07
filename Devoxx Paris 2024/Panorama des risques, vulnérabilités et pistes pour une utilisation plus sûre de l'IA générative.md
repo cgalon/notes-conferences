@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Panorama des risques, vulnérabilités et pistes pour une utilisation plus sûre de l'IA générative
 speaker: Willy Malvault, Aurélien Fournet
 date: 2024-04-18
-video:
+video: https://youtu.be/eD6Tuh0irPc?si=mmCEeZ1j_m7lSShs
 ---
 tags: #ia 
 

@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: "Au-delà du Craft : Revisitez Votre Relation avec le Software Craft"
 speaker: Cyrille Martraire
 date: 2024-04-19
-video:
+video: https://youtu.be/fGaMNUB3Cao?si=ih5cjCBficGk1Tbu
 ---
 tags: #craft 
 

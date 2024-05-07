@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Creating a documentation site for users with AsciiDoc and Antora
 speaker: Alexander Schwartz
 date: 2024-04-17
-video:
+video: https://youtu.be/C-YT4KpMgNk?si=ZPO0cx1b2xCxlMvr
 ---
 tags: #livingdoc , #antora
 

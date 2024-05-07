@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Des tests fonctionnels aux tests de performance. Robustum, un exemple d’implémentation.
 speaker: Sébastien Aubry et Laurent Bouet et Frédéric Flament
 date: 2024-04-19
-video:
+video: https://youtu.be/BjENyufZ6cY?si=zYtjrn0Dof-iiPjX
 ---
 tags: #tests , #performance
 

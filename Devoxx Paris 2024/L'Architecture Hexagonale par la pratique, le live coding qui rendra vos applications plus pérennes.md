@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: L'Architecture Hexagonale par la pratique, le live coding qui rendra vos applications plus pérennes
 speaker: Julien Topçu
 date: 2024-04-19
-video:
+video: https://youtu.be/-dXN8wkN0yk?si=3HEHnsunsgxPju4-
 ---
 tags: #archi
 

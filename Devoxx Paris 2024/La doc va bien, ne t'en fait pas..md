@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: La doc va bien, ne t'en fait pas.
 speaker: Damien Lucas
 date: 2024-04-17
-video:
+video: https://youtu.be/zQ0A75HqFuA?si=TRbI-NtemCIFQd0Y
 ---
 tags: #livingdoc 
 

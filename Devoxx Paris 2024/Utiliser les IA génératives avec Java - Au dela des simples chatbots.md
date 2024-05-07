@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Utiliser les IA génératives avec Java - Au dela des simples chatbots
 speaker: Abdel Sghiouar et Cédrick Lunven
 date: 2024-04-17
-video:
+video: https://youtu.be/6n8JysFyVA8?si=05nrWjRdRBOnG-UR
 ---
 tags: #ia , #OpenSource , #rag 
 

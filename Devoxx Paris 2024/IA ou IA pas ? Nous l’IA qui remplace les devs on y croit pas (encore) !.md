@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: IA ou IA pas ? Nous l’IA qui remplace les devs on y croit pas (encore) !
 speaker: Matthieu Vincent et Yann Gloriau
 date: 2024-04-18
-video:
+video: https://youtu.be/mxhpCvSmFK4?si=L_OENTaB1ZBOsP1E
 ---
 tags: #ia 
 

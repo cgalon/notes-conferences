@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: Builds Reproductibles avec Apache Maven
 speaker: Hervé Boutemy
 date: 2024-04-18
-video:
+video: https://youtu.be/CJ_RnFSE2bQ?si=T-Dle8O67LmRaHMZ
 ---
 tags: #Maven 
 

@@ -3,7 +3,7 @@ conference: Devoxx FR
 title: SLSA, Sigstore, SBOM and Software Supply Chain Security. Should you care?
 speaker: Abdel Sghiouar
 date: 2024-04-17
-video:
+video: https://youtu.be/MEJ-ae_D8X4?si=djZ0PM2Na4MYGQvk
 ---
 tags: #OpenSource , #cicd 
 
