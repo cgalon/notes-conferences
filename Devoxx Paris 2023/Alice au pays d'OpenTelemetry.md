@@ -5,7 +5,7 @@ speaker: Jérome Tama
 date: 2023-04-13
 video: https://youtu.be/0xSCUgHxZu0
 ---
-tags: #supervision , #openTelemetry , #observabilité , #grafana 
+tags: #supervision , #openTelemetry , #observabilité , #grafana , #métriques
 
 Standard
 Convention de désignation des ressources

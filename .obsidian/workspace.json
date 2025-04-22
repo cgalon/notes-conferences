@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e63d36bba59e270e",
+        "id": "409fa67cd3303559",
         "type": "tabs",
         "children": [
           {
-            "id": "7969549ad626a456",
+            "id": "91e97f43cc432b6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devoxx Paris 2024/Java rencontre l'IA - Comment intégrer les LLMs dans vos applications avec LangChain4j.md",
+                "file": "Devoxx Paris 2025/IA générative, TDD et archi hexagonale.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "IA générative, TDD et archi hexagonale"
             }
           }
         ],
@@ -39,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -49,13 +54,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#observabilité",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devoxx Paris 2024/Java rencontre l'IA - Comment intégrer les LLMs dans vos applications avec LangChain4j.md",
+                "file": "Devoxx Paris 2025/L'IA, la tech et les idées reçues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +103,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for L'IA, la tech et les idées reçues"
             }
           },
           {
@@ -104,8 +115,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -113,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -121,7 +138,19 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d920bd17c1e11c03",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
@@ -138,50 +167,51 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7969549ad626a456",
+  "active": "91e97f43cc432b6d",
   "lastOpenFiles": [
+    "assets/devoxx-2025/20250418_151128.jpg",
+    "Devoxx Paris 2025/IA générative, TDD et archi hexagonale.md",
+    "assets/devoxx-2025/20250418_151404.jpg",
+    "Devoxx Paris 2025/Construire une IA agentique en Java.md",
+    "assets/devoxx-2025/20250418_140638.jpg",
+    "Devoxx Paris 2025/Story point versus no estimate.md",
+    "assets/devoxx-2025/20250418_121146.jpg",
+    "assets/devoxx-2025/20250418_091849.jpg",
+    "Devoxx Paris 2025/Quand Java rencontre l'IA - Construisez des application AI en Java.md",
+    "assets/devoxx-2025/20250417_142455.jpg",
+    "Devoxx Paris 2025/Créer des applis intelligentes avec Quarkus et LangChain4J.md",
+    "Devoxx Paris 2025/Génération d'images locales avec Stable Diffusion et ComfyUI.md",
+    "assets/devoxx-2025/20250417_085618.jpg",
+    "assets/devoxx-2025/20250416_181812.jpg",
+    "assets/devoxx-2025/20250416_134415.jpg",
+    "Devoxx Paris 2025/Au secours mon manager me demande des KPI.md",
+    "assets/devoxx-2025/20250415_180513.jpg",
+    "Devoxx Paris 2025/_ A retenir.md",
+    "Devoxx Paris 2025/Les métriques sont précieuses mais savoir quoi en faire l'est encore plus.md",
+    "Devoxx Paris 2023/Miroir miroir dis moi si je suis observable.md",
+    "Devoxx Paris 2023/Alice au pays d'OpenTelemetry.md",
+    "Devoxx Paris 2025/Cloud - Container Development Environment.md",
+    "assets/devoxx-2025",
+    "Devoxx Paris 2025/Mockoon - Les bouchons contre-attaquent.md",
+    "Devoxx Paris 2025/TDD et IA.md",
+    "Devoxx Paris 2025/A la découverte de la famille des modèles BERT.md",
+    "Devoxx Paris 2025/Les clés de l'architecture pour les devs.md",
+    "Devoxx Paris 2025/Openrewrite - Refactoring as code.md",
+    "Devoxx Paris 2025/Simplifier l'usage des LLM dans le code avec Semantic Kernel.md",
+    "Sélection des sessions intéressantes.md",
+    "Devoxx Paris 2025/Sous le capot des LLMs.md",
+    "Devoxx Paris 2025/L'IA, la tech et les idées reçues.md",
+    "template/modele conf.md",
+    "Devoxx Paris 2025",
+    "Devoxx Paris 2024/Java rencontre l'IA - Comment intégrer les LLMs dans vos applications avec LangChain4j.md",
     "Devoxx Paris 2024/L'Architecture Hexagonale par la pratique, le live coding qui rendra vos applications plus pérennes.md",
     "Devoxx Paris 2024/Au-delà du Craft - Revisitez Votre Relation avec le Software Craft.md",
-    "Devoxx Paris 2024/Mettre en place un RAG Open Source en 30 minutes.md",
-    "Devoxx Paris 2024/IA ou IA pas ? Nous l’IA qui remplace les devs on y croit pas (encore) !.md",
-    "Devoxx Paris 2024/Panorama des risques, vulnérabilités et pistes pour une utilisation plus sûre de l'IA générative.md",
-    "Devoxx Paris 2024/Utiliser les IA génératives avec Java - Au dela des simples chatbots.md",
-    "Devoxx Paris 2024/SLSA, Sigstore, SBOM and Software Supply Chain Security. Should you care?.md",
-    "Devoxx Paris 2024/La doc va bien, ne t'en fait pas..md",
-    "Devoxx Paris 2024/C4 model, la solution pour standardiser mes schémas d'architecture.md",
-    "Devoxx Paris 2024/Netty, découvrez LE framework IO pour la JVM.md",
-    "Devoxx Paris 2024/Les nouveautés de Java 21.md",
-    "Devoxx Paris 2024/L’architecture micro frontend - comment transformer son site web en puzzle géant collaboratif.md",
-    "Devoxx Paris 2024/Java rencontre l'IA - Comment intégrer les LLMs dans vos applications avec LangChain4j.md",
-    "Devoxx Paris 2024/GatewayAPI, 10 ans de maturation pour une nouvelle API Kubernetes.md",
-    "Devoxx Paris 2024/Des tests fonctionnels aux tests de performance. Robustum, un exemple d’implémentation..md",
-    "Devoxx Paris 2024/De Compose à Kubernetes, Same player shoot again.md",
-    "Devoxx Paris 2024/Creating a documentation site for users with AsciiDoc and Antora.md",
-    "Devoxx Paris 2024/Builds Reproductibles avec Apache Maven.md",
-    "Devoxx Paris 2023/Gérer la dette d'architecture dans un contexte d'hypercroissance.md",
-    "Devoxx Paris 2023/Biais et balivernes.md",
-    "assets/devoxx-2024/20240417_134030.jpg",
-    "assets/devoxx-2024/20240418_133606.jpg",
-    "assets/devoxx-2024/20240419_085052.jpg",
-    "assets/devoxx-2024/20240419_083622.jpg",
-    "assets/devoxx-2024/20240418_140656.jpg",
-    "assets/devoxx-2024/20240417_162011.jpg",
-    "assets/devoxx-2024/20240417_084236.jpg",
-    "assets/devoxx-2024/20240417_143323.jpg",
-    "assets/devoxx-2024/20240417_144145.jpg",
-    "assets/devoxx-2024/20240417_144218.jpg",
     "assets/devoxx-2024",
     "assets",
-    "Devoxx Paris 2021/Resilience et design patterns pour le cloud.md",
-    "Devoxx Paris 2021/Grosses bases de données, beaucoup de serveurs....md",
-    "Devoxx Paris 2019/Kafka, patterns et anti-patterns.md",
-    "Devoxx Paris 2019/Chaos engineering pour le Javaiste.md",
-    "Mémo Obsidian.md",
-    "Sélection des sessions intéressantes.md",
     "Devoxx Paris 2024",
     "template",
     "Devoxx Paris 2023"

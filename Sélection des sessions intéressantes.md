@@ -51,5 +51,10 @@
 
 [[Des tuyaux sur les pipelines]]
 
-# Devoxx PAris 2024
+# Devoxx Paris 2024
+
+
+# Devoxx Paris 2025
+
+[[Créer des applis intelligentes avec Quarkus et LangChain4J]]
 

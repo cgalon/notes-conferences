@@ -5,7 +5,7 @@ speaker: Virginie Hang et Robin Sooprayen
 date: 2023-04-14
 video: https://youtu.be/PEDHMxNc-NA
 ---
-tags: #observabilité , #supervision , #Monitoring , #openTelemetry 
+tags: #observabilité , #supervision , #Monitoring , #openTelemetry , #métriques 
 
 Premier dashboard "au doigt mouillé"
 Alerting automatique 
